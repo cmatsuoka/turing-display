@@ -10,6 +10,8 @@ log = "0.4"
 simple_logger = "4.3"
 clap = { version = "4.5", features = ["derive"] }
 lodepng = "3.8"
+rand = "0.8.5"
+rusttype = "0.9.3"
 
 [dependencies.turing-screen]
 path = "../turing-rust"
